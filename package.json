@@ -1,0 +1,28 @@
+{
+  "name": "angular-window-manager",
+  "version": "0.1.4",
+  "author": "Máj Szabolcs <szabolcs.maj@goodgrind.tech>",
+  "description": "This is an angular directive to show content wrapped in windows.",
+  "main": "angular-window-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodGrind/angular-window-manager.git"
+  },
+  "keywords": [
+    "angular-window-manager",
+    "window",
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoodGrind/angular-window-manager/issues"
+  },
+  "homepage": "https://github.com/GoodGrind/angular-window-manager#readme",
+  "dependencies":{
+    "angular": ">1.2.7"
+  }
+}
